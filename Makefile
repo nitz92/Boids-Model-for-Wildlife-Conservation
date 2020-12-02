@@ -1,0 +1,2 @@
+simulate:
+	python -m boids
